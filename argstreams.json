@@ -48,6 +48,24 @@
         "city": "Buenos Aires"
     },
     {
+        "channelId": "UCCKMZAvEMR7IzVKBxyLb9Lg",
+        "title": "Floyd TV",
+        "category": "Stream",
+        "city": "Mendoza"
+    },
+    {
+        "channelId": "UCdMP4zAisGQ7Dve0rjrsVAw",
+        "title": "Pue!",
+        "category": "Stream",
+        "city": "Salta"
+    },
+    {
+        "channelId": "UCnJmGTmp4RL_YWrnvVmuyXA",
+        "title": "Punto Uno",
+        "category": "Radio",
+        "city": "Salta"
+    },
+    {
         "channelId": "UCvCTWHCbBC0b9UIeLeNs8ug",
         "title": "Vorterix",
         "category": "Radio",
