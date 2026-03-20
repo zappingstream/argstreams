@@ -6,6 +6,36 @@
       "city": "Buenos Aires"
     },
     {
+      "channelId": "UC3clpW9cnU1wA-RUM-eoFTw",
+      "title": "MDZ Radio",
+      "category": "Radio",
+      "city": "Mendoza"
+    },
+    {
+      "channelId": "UCHIfuRg5isAgn_TgOBjM2VQ",
+      "title": "Radio Nihuil",
+      "category": "Radio",
+      "city": "Mendoza"
+    },
+    {
+      "channelId": "UCMdE59YbYbSqkiZT_DPM4Dg",
+      "title": "Pais de Boludos",
+      "category": "Stream",
+      "city": "Buenos Aires"
+    },
+    {
+      "channelId": "UCJozD5RVug7EZdTjqkGISYQ",
+      "title": "Radio 10",
+      "category": "Radio",
+      "city": "Buenos Aires"
+    },
+    {
+      "channelId": "UCAgWfv5JVhZuyik9mlubVag",
+      "title": "Stream Max",
+      "category": "Stream",
+      "city": "Jujuy"
+    },
+    {
       "channelId": "UCnZidingmuqNkaT9Wm64Xxg",
       "title": "Bondi LIVE",
       "category": "Stream",
@@ -302,7 +332,7 @@
     {
         "channelId": "UCHc3el42hXKKhjs_1vzWk9A",
         "title": "Telefe",
-        "category": "TV",
+        "category": "Television",
         "city": "Buenos Aires"
     },
     {
@@ -313,7 +343,7 @@
     },
     {
         "channelId": "UCPkATVSFzh30rXcnxQpPQug",
-        "title": "La Voz Online C4",
+        "title": "Chisme",
         "category": "Stream",
         "city": "Buenos Aires"
     },
@@ -344,7 +374,7 @@
     { 
         "channelId": "UC72ZaBKI-Bo5fjmWEYonhJw",
         "title": "TyC Sports",
-        "category": "TV",
+        "category": "Television",
         "city": "Buenos Aires"
     },
     {
@@ -362,13 +392,13 @@
     {
         "channelId": "UC0DM_mHV2u6dj8ig51GkQwg",
         "title": "El Trece TV",
-        "category": "TV",
+        "category": "Television",
         "city": "Buenos Aires"
     },
     {
         "channelId": "UCqxBNDHmEZgqU1B61oc-QhQ",
         "title": "Direct TV Go",
-        "category": "TV",
+        "category": "Stream",
         "city": "Buenos Aires"
     },
     {
