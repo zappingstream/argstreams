@@ -6,10 +6,52 @@
       "city": "Buenos Aires"
     },
     {
+      "channelId": "UCZ2voklsl3XHugqbm19wB1w",
+      "title": "Universo TV",
+      "category": "Stream",
+      "city": "Cordoba"
+    },
+    {
+      "channelId": "UC-nbZRGExGYj53CrvT12pfg",
+      "title": "Murad",
+      "category": "Stream",
+      "city": "General"
+    },
+    {
+      "channelId": "UC3aEpwCbF83KYG5dzHJOeew",
+      "title": "AFA Estudio",
+      "category": "Stream",
+      "city": "General"
+    },
+    {
+       "channelId": "UCORLLKqtzdHxZrvo5XlnTTw",
+       "title": "Jotax",
+       "category": "Stream",
+       "city": "Buenos Aires"
+    },
+    {
+      "channelId": "UCs231K71Bnu5295_x0MB5Pg",
+      "title": "Television Publica",
+      "category": "Television",
+      "city": "General"
+    },
+    {
       "channelId": "UCWV9sKG380WytFZy5_EsjgA",
       "title": "Rosario la Ciudad - Media",
       "category": "Radio",
       "city": "Rosario"
+    },
+    {
+      "channelId": "UC9ghrLcpy0FxDFssie-siwQ",
+      "title": "Picado TV",
+      "category": "Stream",
+      "city": "Buenos Aires"
+    },
+    {
+      "channelId": "UCjLj25HTWwbDZk6MvyUg0iw",
+      "title": "Mobile Sports",
+      "category": "Stream",
+      "city": "General"
     },
     {
       "channelId": "UC3clpW9cnU1wA-RUM-eoFTw",
