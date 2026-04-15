@@ -1,544 +1,544 @@
 [
-    {
-      "channelId": "UCWSfXECGo1qK_H7SXRaUSMg",
-      "title": "Gelatina",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-       "channelId": "UC_J368jRtGUPIjl0NZzW0Sg",
-       "title": "Border Periodismo",
-       "category": "Stream",
-        "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCi0YGKwQGE-r1GtEAgX1vwQ",
-      "title": "Marcelo Longobardi",
-      "category": "Personal",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCVSPRfoTypDMGQGXExJbK-w",
-      "title": "Crack Streaming",
-      "category": "Stream",
-      "city": "Cordoba"
-    },
-    {
-      "channelId": "UCuwAnvOALatjp6auLcv4yJA",
-      "title": "San Luis Streaming",
-      "category": "Stream",
-      "city": "San Luis"
-    },
-    {
-      "channelId": "UC2TE19Vc_rDQRMO5hnhqsQw",
-      "title": "San Luis +",
-      "category": "Television",
-      "city": "San Luis"
-    },
-    {
-      "channelId": "UClSXlqO2N4rnRPc6H01eRxw",
-      "title": "Mia Tucuman HD",
-      "category": "Radio",
-      "city": "Tucuman"
-    },
-    {
-      "channelId": "UCSNFK2KFtpHRO9DslWCquzg",
-      "title": "Canal 8 Stream",
-      "category": "Television",
-      "city": "Mar del Plata"
-    },
-    {
-      "channelId": "UCZi6C9-a4fYKiBoIuEJ80ZA",
-      "title": "El Cronista Stream",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCCEGno1rNtkkkaQ30dA2RGw",
-      "title": "Buenas Tardes China",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCV7c9y3uWckx0kyXSHhKJXw",
-      "title": "Resumido Info",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCyjxc5sEXT3-484a_69OFXQ",
-      "title": "Stream Chaco TV",
-      "category": "Stream",
-      "city": "Resistencia"
-    },
-    {
-      "channelId": "UC7Aobs0b2LQQhbbI0eqkAmg",
-      "title": "Desde la Historica TV",
-      "category": "Stream",
-      "city": "Tucuman"
-    },
-    {
-      "channelId": "UChxXqVXHvLgBRdB3UPNTnYg",
-      "title": "Go Play TV",
-      "category": "Stream",
-      "city": "Tucuman"
-    },
-    {
-      "channelId": "UCg6kTB4vw1XYFBR4TtHaBuQ",
-      "title": "Un poco de ruido",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCAthRtUytEsOuNfVkfFwsiw",
-      "title": "Ushuaia Stream",
-      "category": "Stream",
-      "city": "Ushuaia"
-    },
-    {
-      "channelId": "UCCfPkh8osJPC2pPq283kKXg",
-      "title": "La Cobra",
-      "category": "Personal",
-      "city": "General"
-    },
-    {
-      "channelId": "UCZ2voklsl3XHugqbm19wB1w",
-      "title": "Universo TV",
-      "category": "Stream",
-      "city": "Cordoba"
-    },
-    {
-      "channelId": "UC-nbZRGExGYj53CrvT12pfg",
-      "title": "Murad",
-      "category": "Stream",
-      "city": "General"
-    },
-    {
-      "channelId": "UC3aEpwCbF83KYG5dzHJOeew",
-      "title": "AFA Estudio",
-      "category": "Stream",
-      "city": "General"
-    },
-    {
-       "channelId": "UCORLLKqtzdHxZrvo5XlnTTw",
-       "title": "Jotax",
-       "category": "Stream",
-       "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCs231K71Bnu5295_x0MB5Pg",
-      "title": "Television Publica",
-      "category": "Television",
-      "city": "General"
-    },
-    {
-      "channelId": "UCWV9sKG380WytFZy5_EsjgA",
-      "title": "Rosario la Ciudad - Media",
-      "category": "Stream",
-      "city": "Rosario"
-    },
-    {
-      "channelId": "UC9ghrLcpy0FxDFssie-siwQ",
-      "title": "Picado TV",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCjLj25HTWwbDZk6MvyUg0iw",
-      "title": "Mobile Sports",
-      "category": "Stream",
-      "city": "General"
-    },
-    {
-      "channelId": "UC3clpW9cnU1wA-RUM-eoFTw",
-      "title": "MDZ Radio",
-      "category": "Radio",
-      "city": "Mendoza"
-    },
-    {
-      "channelId": "UCHIfuRg5isAgn_TgOBjM2VQ",
-      "title": "Radio Nihuil",
-      "category": "Radio",
-      "city": "Mendoza"
-    },
-    {
-      "channelId": "UCMdE59YbYbSqkiZT_DPM4Dg",
-      "title": "Pais de Boludos",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCJozD5RVug7EZdTjqkGISYQ",
-      "title": "Radio 10",
-      "category": "Radio",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCAgWfv5JVhZuyik9mlubVag",
-      "title": "Stream Max",
-      "category": "Stream",
-      "city": "Jujuy"
-    },
-    {
-      "channelId": "UCnZidingmuqNkaT9Wm64Xxg",
-      "title": "Bondi LIVE",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-      "title": "Infobae",
-      "category": "Radio",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCRtgbxUH456ox51IswIQgZQ",
-      "title": "Carnaval Stream",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCTHaNTsP7hsVgBxARZTuajw",
-      "title": "Luzu TV",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
-      "title": "Olga",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UC-40U87JsevMIMn7PMw4jPw",
-      "title": "Neura",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UC6pJGaMdx5Ter_8zYbLoRgA",
-      "title": "Blender",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UCmk9kjghfkM3k8I6jioDr3g",
-        "title": "Republica Z",
-        "category": "Stream",
-        "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UCCKMZAvEMR7IzVKBxyLb9Lg",
-        "title": "Floyd TV",
-        "category": "Stream",
-        "city": "Mendoza"
-    },
-    {
-        "channelId": "UCdMP4zAisGQ7Dve0rjrsVAw",
-        "title": "Pue!",
-        "category": "Stream",
-        "city": "Salta"
-    },
-    {
-        "channelId": "UCnJmGTmp4RL_YWrnvVmuyXA",
-        "title": "Punto Uno",
-        "category": "Radio",
-        "city": "Salta"
-    },
-    {
-        "channelId": "UCvCTWHCbBC0b9UIeLeNs8ug",
-        "title": "Vorterix",
-        "category": "Stream",
-        "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-      "title": "El Observador 107.9",
-      "category": "Radio",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCOdvb87kehTSzs1pfVExHwA",
-      "title": "Radio Boing 97.3",
-      "category": "Radio",
-      "city": "Rosario"
-    },
-    {
-      "channelId": "UC5wAqJ9NF0fpGH9dVf3h6HA",
-      "title": "El Destape",
-      "category": "Radio",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCC1kfsMJko54AqxtcFECt-A",
-      "title": "Urbana Play 104.3",
-      "category": "Radio",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCK0EGTOQzaA0psqf35_zXGQ",
-      "title": "Brindis TV",
-      "category": "Stream",
-      "city": "Rosario"
-    },
-    {
-      "channelId": "UCYvINPByAdCcpA0sWrF3I_w",
-      "title": "Radio Mitre",
-      "category": "Radio",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UC4u0BhsSi33PS20_1JHiC5A",
-      "title": "Somos la Casa",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCb_I_GQNtt7IZzdzQyILnBw",
-      "title": "Radio Si 98.9",
-      "category": "Radio",
-      "city": "Rosario"
-    },
-    {
-      "channelId": "UChJncJRqo10N4C5_sPKYskA",
-      "title": "Esto es FA!",
-      "category": "Stream",
-      "city": "General"
-    },
-    {
-      "channelId": "UCV1WCVexFXNTq_t5Z4xgGNw",
-      "title": "Los Herederos de Alberdi",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-      "title": "Futurock",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCTlUJTm5qFRLylSJ_8KS34A",
-      "title": "Somos Mate",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCRyGJcJYqqiCByEaUhDLMsw",
-      "title": "Ahora Play",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UC6YundoLrEuBJaPp_oEPWaA",
-      "title": "Barricada TV",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCxHSIJgKZ8xVXwLGaGZEmKg",
-      "title": "Cenital",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCaSLGFmEOmOEhR2fAskG3iA",
-      "title": "Mostri TV",
-      "category": "Stream",
-      "city": "Cordoba"
-    },
-    {
-      "channelId": "UCOpxYGU6whNOWd2LWzkFEKQ",
-      "title": "220 Podcast",
-      "category": "Personal",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UC_49ElhhVd1BO7MsdBPm77Q",
-      "title": "Breakpoint",
-      "category": "Personal",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCVvXKi8_WUIO85hCllKhQBg",
-      "title": "Circulo Vicioso",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCHDwIzNtE5vPScYLLXutkHA",
-      "title": "El presto",
-      "category": "Personal",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCpvYnSZNyBxF2MSWvju06jg",
-      "title": "Nico Guthman",
-      "category": "Personal",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCYhdNotH35a31FoptmQj3Tg",
-      "title": "La RZ radio",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UC7LNqV-7QWrl7ziURc6hsXg",
-      "title": "Sucesos TV",
-      "category": "Stream",
-      "city": "Cordoba"
-    },
-    {
-      "channelId": "UC2zO2jZCDplwm8SVsXUcxCQ",
-      "title": "La 100 Radio",
-      "category": "Radio",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCtc_WjDRwCrZSEq2WEwD7XQ",
-      "title": "POP Radio",
-      "category": "Radio",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UC9vs8KujZ2kJ2hbg01fNRVw",
-      "title": "Filo News",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-      "title": "Azzaro",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCRc--JpvY9zvRz_Vm1eoHAA",
-      "title": "Vorly Streaming",
-      "category": "Stream",
-      "city": "Rosario"
-    },
-    {
-      "channelId": "UCPIgqTAeWOgNvrjsGY68JSw",
-      "title": "LACA Stream",
-      "category": "Stream",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCLAj5TzCrNbqe3LosSKHLcQ",
-      "title": "Radio Rivadavia AM 630",
-      "category": "Radio",
-      "city": "Buenos Aires"
-    },
-    {
-      "channelId": "UCXD7te-74mwgL1I3xjlYhQQ",
-      "title": "FAMA TV",
-      "category": "Stream",
-      "city": "Rosario"
-    },
-    {
-      "channelId": "UC1Oa7gHuqzGHB90FPb0ssPA",
-      "title": "Radio Vale FM97.5",
-      "category": "Radio",
-      "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UCAlQ5f7mhnkfM6jjXeJDw7g",
-        "title": "FM Rock and POP 95.9",
-        "category": "Radio",
-        "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UCQeyDDFM08BXZqj-e-DuMug",
-        "title": "Metro 95.1",
-        "category": "Radio",
-        "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UCxDteokWBemJvLI_I0VUGdA",
-        "title": "Radio con vos",
-        "category": "Radio",
-        "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UC-1NCwOfa1R_IRimw47w0-g",
-        "title": "Abitare",
-        "category": "Stream",
-        "city": "Rosario"
-    },
-    {
-        "channelId": "UCHc3el42hXKKhjs_1vzWk9A",
-        "title": "Telefe",
-        "category": "Television",
-        "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UCPkATVSFzh30rXcnxQpPQug",
-        "title": "Chisme",
-        "category": "Stream",
-        "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UC-pHPe42SNmhGWD1A3Isv6g",
-        "title": "Blue RTV",
-        "category": "Stream",
-        "city": "Rosario"
-    },
-    {
-        "channelId": "UC4mdhKZXjrKoq5aVG6juHEg",
-        "title": "Carajo",
-        "category": "Stream",
-        "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UCzHOIqsAR8xv-Q7SrzBQxqA",
-        "title": "Picnic Extraterrestre",
-        "category": "Stream",
-        "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UCKx9cVVdqzY6fHzyorU7rrg",
-        "title": "Mistica TV",
-        "category": "Stream",
-        "city": "Rosario"
-    },
-    { 
-        "channelId": "UC72ZaBKI-Bo5fjmWEYonhJw",
-        "title": "TyC Sports",
-        "category": "Television",
-        "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UC9CTiYtuSVNNro30cOXriIA",
-        "title": "La Casa del Streaming",
-        "category": "Stream",
-        "city": "Misiones"
-    },
-    {
-        "channelId": "UCgC9zpiCwwSUPMNF3wMxX8g",
-        "title": "La Faraona",
-        "category": "Personal",
-        "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UC0DM_mHV2u6dj8ig51GkQwg",
-        "title": "El Trece TV",
-        "category": "Television",
-        "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UCqxBNDHmEZgqU1B61oc-QhQ",
-        "title": "Direct TV Go",
-        "category": "Stream",
-        "city": "Buenos Aires"
-    },
-    {
-        "channelId": "UCTaigBFITdSln6GtNM_7uUw",
-        "title": "Radio MX+",
-        "category": "Stream",
-        "city": "Buenos Aires"
-    },
+    // {
+    //   "channelId": "UCWSfXECGo1qK_H7SXRaUSMg",
+    //   "title": "Gelatina",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //    "channelId": "UC_J368jRtGUPIjl0NZzW0Sg",
+    //    "title": "Border Periodismo",
+    //    "category": "Stream",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCi0YGKwQGE-r1GtEAgX1vwQ",
+    //   "title": "Marcelo Longobardi",
+    //   "category": "Personal",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCVSPRfoTypDMGQGXExJbK-w",
+    //   "title": "Crack Streaming",
+    //   "category": "Stream",
+    //   "city": "Cordoba"
+    // },
+    // {
+    //   "channelId": "UCuwAnvOALatjp6auLcv4yJA",
+    //   "title": "San Luis Streaming",
+    //   "category": "Stream",
+    //   "city": "San Luis"
+    // },
+    // {
+    //   "channelId": "UC2TE19Vc_rDQRMO5hnhqsQw",
+    //   "title": "San Luis +",
+    //   "category": "Television",
+    //   "city": "San Luis"
+    // },
+    // {
+    //   "channelId": "UClSXlqO2N4rnRPc6H01eRxw",
+    //   "title": "Mia Tucuman HD",
+    //   "category": "Radio",
+    //   "city": "Tucuman"
+    // },
+    // {
+    //   "channelId": "UCSNFK2KFtpHRO9DslWCquzg",
+    //   "title": "Canal 8 Stream",
+    //   "category": "Television",
+    //   "city": "Mar del Plata"
+    // },
+    // {
+    //   "channelId": "UCZi6C9-a4fYKiBoIuEJ80ZA",
+    //   "title": "El Cronista Stream",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCCEGno1rNtkkkaQ30dA2RGw",
+    //   "title": "Buenas Tardes China",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCV7c9y3uWckx0kyXSHhKJXw",
+    //   "title": "Resumido Info",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCyjxc5sEXT3-484a_69OFXQ",
+    //   "title": "Stream Chaco TV",
+    //   "category": "Stream",
+    //   "city": "Resistencia"
+    // },
+    // {
+    //   "channelId": "UC7Aobs0b2LQQhbbI0eqkAmg",
+    //   "title": "Desde la Historica TV",
+    //   "category": "Stream",
+    //   "city": "Tucuman"
+    // },
+    // {
+    //   "channelId": "UChxXqVXHvLgBRdB3UPNTnYg",
+    //   "title": "Go Play TV",
+    //   "category": "Stream",
+    //   "city": "Tucuman"
+    // },
+    // {
+    //   "channelId": "UCg6kTB4vw1XYFBR4TtHaBuQ",
+    //   "title": "Un poco de ruido",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCAthRtUytEsOuNfVkfFwsiw",
+    //   "title": "Ushuaia Stream",
+    //   "category": "Stream",
+    //   "city": "Ushuaia"
+    // },
+    // {
+    //   "channelId": "UCCfPkh8osJPC2pPq283kKXg",
+    //   "title": "La Cobra",
+    //   "category": "Personal",
+    //   "city": "General"
+    // },
+    // {
+    //   "channelId": "UCZ2voklsl3XHugqbm19wB1w",
+    //   "title": "Universo TV",
+    //   "category": "Stream",
+    //   "city": "Cordoba"
+    // },
+    // {
+    //   "channelId": "UC-nbZRGExGYj53CrvT12pfg",
+    //   "title": "Murad",
+    //   "category": "Stream",
+    //   "city": "General"
+    // },
+    // {
+    //   "channelId": "UC3aEpwCbF83KYG5dzHJOeew",
+    //   "title": "AFA Estudio",
+    //   "category": "Stream",
+    //   "city": "General"
+    // },
+    // {
+    //    "channelId": "UCORLLKqtzdHxZrvo5XlnTTw",
+    //    "title": "Jotax",
+    //    "category": "Stream",
+    //    "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCs231K71Bnu5295_x0MB5Pg",
+    //   "title": "Television Publica",
+    //   "category": "Television",
+    //   "city": "General"
+    // },
+    // {
+    //   "channelId": "UCWV9sKG380WytFZy5_EsjgA",
+    //   "title": "Rosario la Ciudad - Media",
+    //   "category": "Stream",
+    //   "city": "Rosario"
+    // },
+    // {
+    //   "channelId": "UC9ghrLcpy0FxDFssie-siwQ",
+    //   "title": "Picado TV",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCjLj25HTWwbDZk6MvyUg0iw",
+    //   "title": "Mobile Sports",
+    //   "category": "Stream",
+    //   "city": "General"
+    // },
+    // {
+    //   "channelId": "UC3clpW9cnU1wA-RUM-eoFTw",
+    //   "title": "MDZ Radio",
+    //   "category": "Radio",
+    //   "city": "Mendoza"
+    // },
+    // {
+    //   "channelId": "UCHIfuRg5isAgn_TgOBjM2VQ",
+    //   "title": "Radio Nihuil",
+    //   "category": "Radio",
+    //   "city": "Mendoza"
+    // },
+    // {
+    //   "channelId": "UCMdE59YbYbSqkiZT_DPM4Dg",
+    //   "title": "Pais de Boludos",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCJozD5RVug7EZdTjqkGISYQ",
+    //   "title": "Radio 10",
+    //   "category": "Radio",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCAgWfv5JVhZuyik9mlubVag",
+    //   "title": "Stream Max",
+    //   "category": "Stream",
+    //   "city": "Jujuy"
+    // },
+    // {
+    //   "channelId": "UCnZidingmuqNkaT9Wm64Xxg",
+    //   "title": "Bondi LIVE",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
+    //   "title": "Infobae",
+    //   "category": "Radio",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCRtgbxUH456ox51IswIQgZQ",
+    //   "title": "Carnaval Stream",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCTHaNTsP7hsVgBxARZTuajw",
+    //   "title": "Luzu TV",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
+    //   "title": "Olga",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UC-40U87JsevMIMn7PMw4jPw",
+    //   "title": "Neura",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UC6pJGaMdx5Ter_8zYbLoRgA",
+    //   "title": "Blender",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UCmk9kjghfkM3k8I6jioDr3g",
+    //     "title": "Republica Z",
+    //     "category": "Stream",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UCCKMZAvEMR7IzVKBxyLb9Lg",
+    //     "title": "Floyd TV",
+    //     "category": "Stream",
+    //     "city": "Mendoza"
+    // },
+    // {
+    //     "channelId": "UCdMP4zAisGQ7Dve0rjrsVAw",
+    //     "title": "Pue!",
+    //     "category": "Stream",
+    //     "city": "Salta"
+    // },
+    // {
+    //     "channelId": "UCnJmGTmp4RL_YWrnvVmuyXA",
+    //     "title": "Punto Uno",
+    //     "category": "Radio",
+    //     "city": "Salta"
+    // },
+    // {
+    //     "channelId": "UCvCTWHCbBC0b9UIeLeNs8ug",
+    //     "title": "Vorterix",
+    //     "category": "Stream",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
+    //   "title": "El Observador 107.9",
+    //   "category": "Radio",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCOdvb87kehTSzs1pfVExHwA",
+    //   "title": "Radio Boing 97.3",
+    //   "category": "Radio",
+    //   "city": "Rosario"
+    // },
+    // {
+    //   "channelId": "UC5wAqJ9NF0fpGH9dVf3h6HA",
+    //   "title": "El Destape",
+    //   "category": "Radio",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCC1kfsMJko54AqxtcFECt-A",
+    //   "title": "Urbana Play 104.3",
+    //   "category": "Radio",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCK0EGTOQzaA0psqf35_zXGQ",
+    //   "title": "Brindis TV",
+    //   "category": "Stream",
+    //   "city": "Rosario"
+    // },
+    // {
+    //   "channelId": "UCYvINPByAdCcpA0sWrF3I_w",
+    //   "title": "Radio Mitre",
+    //   "category": "Radio",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UC4u0BhsSi33PS20_1JHiC5A",
+    //   "title": "Somos la Casa",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCb_I_GQNtt7IZzdzQyILnBw",
+    //   "title": "Radio Si 98.9",
+    //   "category": "Radio",
+    //   "city": "Rosario"
+    // },
+    // {
+    //   "channelId": "UChJncJRqo10N4C5_sPKYskA",
+    //   "title": "Esto es FA!",
+    //   "category": "Stream",
+    //   "city": "General"
+    // },
+    // {
+    //   "channelId": "UCV1WCVexFXNTq_t5Z4xgGNw",
+    //   "title": "Los Herederos de Alberdi",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCgn6r0aGRBnEQm02tE_jzbw",
+    //   "title": "Futurock",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCTlUJTm5qFRLylSJ_8KS34A",
+    //   "title": "Somos Mate",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCRyGJcJYqqiCByEaUhDLMsw",
+    //   "title": "Ahora Play",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UC6YundoLrEuBJaPp_oEPWaA",
+    //   "title": "Barricada TV",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCxHSIJgKZ8xVXwLGaGZEmKg",
+    //   "title": "Cenital",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCaSLGFmEOmOEhR2fAskG3iA",
+    //   "title": "Mostri TV",
+    //   "category": "Stream",
+    //   "city": "Cordoba"
+    // },
+    // {
+    //   "channelId": "UCOpxYGU6whNOWd2LWzkFEKQ",
+    //   "title": "220 Podcast",
+    //   "category": "Personal",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UC_49ElhhVd1BO7MsdBPm77Q",
+    //   "title": "Breakpoint",
+    //   "category": "Personal",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCVvXKi8_WUIO85hCllKhQBg",
+    //   "title": "Circulo Vicioso",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCHDwIzNtE5vPScYLLXutkHA",
+    //   "title": "El presto",
+    //   "category": "Personal",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCpvYnSZNyBxF2MSWvju06jg",
+    //   "title": "Nico Guthman",
+    //   "category": "Personal",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCYhdNotH35a31FoptmQj3Tg",
+    //   "title": "La RZ radio",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UC7LNqV-7QWrl7ziURc6hsXg",
+    //   "title": "Sucesos TV",
+    //   "category": "Stream",
+    //   "city": "Cordoba"
+    // },
+    // {
+    //   "channelId": "UC2zO2jZCDplwm8SVsXUcxCQ",
+    //   "title": "La 100 Radio",
+    //   "category": "Radio",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCtc_WjDRwCrZSEq2WEwD7XQ",
+    //   "title": "POP Radio",
+    //   "category": "Radio",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UC9vs8KujZ2kJ2hbg01fNRVw",
+    //   "title": "Filo News",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
+    //   "title": "Azzaro",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCRc--JpvY9zvRz_Vm1eoHAA",
+    //   "title": "Vorly Streaming",
+    //   "category": "Stream",
+    //   "city": "Rosario"
+    // },
+    // {
+    //   "channelId": "UCPIgqTAeWOgNvrjsGY68JSw",
+    //   "title": "LACA Stream",
+    //   "category": "Stream",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCLAj5TzCrNbqe3LosSKHLcQ",
+    //   "title": "Radio Rivadavia AM 630",
+    //   "category": "Radio",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //   "channelId": "UCXD7te-74mwgL1I3xjlYhQQ",
+    //   "title": "FAMA TV",
+    //   "category": "Stream",
+    //   "city": "Rosario"
+    // },
+    // {
+    //   "channelId": "UC1Oa7gHuqzGHB90FPb0ssPA",
+    //   "title": "Radio Vale FM97.5",
+    //   "category": "Radio",
+    //   "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UCAlQ5f7mhnkfM6jjXeJDw7g",
+    //     "title": "FM Rock and POP 95.9",
+    //     "category": "Radio",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UCQeyDDFM08BXZqj-e-DuMug",
+    //     "title": "Metro 95.1",
+    //     "category": "Radio",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UCxDteokWBemJvLI_I0VUGdA",
+    //     "title": "Radio con vos",
+    //     "category": "Radio",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UC-1NCwOfa1R_IRimw47w0-g",
+    //     "title": "Abitare",
+    //     "category": "Stream",
+    //     "city": "Rosario"
+    // },
+    // {
+    //     "channelId": "UCHc3el42hXKKhjs_1vzWk9A",
+    //     "title": "Telefe",
+    //     "category": "Television",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UCPkATVSFzh30rXcnxQpPQug",
+    //     "title": "Chisme",
+    //     "category": "Stream",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UC-pHPe42SNmhGWD1A3Isv6g",
+    //     "title": "Blue RTV",
+    //     "category": "Stream",
+    //     "city": "Rosario"
+    // },
+    // {
+    //     "channelId": "UC4mdhKZXjrKoq5aVG6juHEg",
+    //     "title": "Carajo",
+    //     "category": "Stream",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UCzHOIqsAR8xv-Q7SrzBQxqA",
+    //     "title": "Picnic Extraterrestre",
+    //     "category": "Stream",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UCKx9cVVdqzY6fHzyorU7rrg",
+    //     "title": "Mistica TV",
+    //     "category": "Stream",
+    //     "city": "Rosario"
+    // },
+    // { 
+    //     "channelId": "UC72ZaBKI-Bo5fjmWEYonhJw",
+    //     "title": "TyC Sports",
+    //     "category": "Television",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UC9CTiYtuSVNNro30cOXriIA",
+    //     "title": "La Casa del Streaming",
+    //     "category": "Stream",
+    //     "city": "Misiones"
+    // },
+    // {
+    //     "channelId": "UCgC9zpiCwwSUPMNF3wMxX8g",
+    //     "title": "La Faraona",
+    //     "category": "Personal",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UC0DM_mHV2u6dj8ig51GkQwg",
+    //     "title": "El Trece TV",
+    //     "category": "Television",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UCqxBNDHmEZgqU1B61oc-QhQ",
+    //     "title": "Direct TV Go",
+    //     "category": "Stream",
+    //     "city": "Buenos Aires"
+    // },
+    // {
+    //     "channelId": "UCTaigBFITdSln6GtNM_7uUw",
+    //     "title": "Radio MX+",
+    //     "category": "Stream",
+    //     "city": "Buenos Aires"
+    // },
     {
         "channelId": "UC7WpCrWnAh5DoHtMxbrtMnQ",
         "title": "Choco TV",
