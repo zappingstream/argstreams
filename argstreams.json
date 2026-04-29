@@ -18,6 +18,12 @@
       "city": "Cordoba"
     },
     {
+      "channelId": "UCC6Y5cYmvlQ_4-J6jOSOK_Q",
+      "title": "Pila TV",
+      "category": "Stream",
+      "city": "Mendoza"
+    },
+    {
       "channelId": "UC2NuWHedLg3J7lmu-EYSujQ",
       "title": "Agofa TV",
       "category": "Stream",
@@ -591,7 +597,7 @@
         "channelId": "UC9CTiYtuSVNNro30cOXriIA",
         "title": "La Casa del Streaming",
         "category": "Stream",
-        "city": "Misiones"
+        "city": "Posadas"
     },
     {
         "channelId": "UCgC9zpiCwwSUPMNF3wMxX8g",
